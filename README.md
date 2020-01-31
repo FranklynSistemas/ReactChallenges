@@ -5,6 +5,12 @@
 -   [React with TypeScript](https://www.sitepoint.com/react-with-typescript-best-practices/)
 -   [TypeScript cheatSheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
+### Deploy
+
+To deploy this project in your github please follow this tutorial [How to deploy a react app in github](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) and run the follow command:
+
+`npm run deploy`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
