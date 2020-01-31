@@ -2,8 +2,8 @@
 
 ### Resources
 
--   (React with TypeScript)[https://www.sitepoint.com/react-with-typescript-best-practices/]
--   (TypeScript cheatSheet)[https://github.com/typescript-cheatsheets/react-typescript-cheatsheet]
+-   [React with TypeScript](https://www.sitepoint.com/react-with-typescript-best-practices/)
+-   [TypeScript cheatSheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
