@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    margin: 0;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace, 'Roboto';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #00e676;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
